@@ -28,3 +28,7 @@ skills/
 ```
 
 Run `make install` to apply.
+
+## Acknowledgements
+
+This repository is inspired by [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff). Thanks to [@mitsuhiko](https://github.com/mitsuhiko) for sharing his skills and extensions for AI agents.
